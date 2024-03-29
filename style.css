@@ -29,7 +29,7 @@ h1 {
     display: block !important;
 }
 .form-control{
-    width: 800px !important;
+    width: 350px !important;
 }
 
 /* .input{
@@ -72,7 +72,6 @@ h5 {
     height: 39px;
 }
 
-
 footer {
     font-size: 15px;
     color: #363958;
@@ -82,6 +81,14 @@ footer {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
+}
+.imp-img{
+    display: flex;
+    margin-top: 25px;
+    float: right;
+    /* height: 350px; */
+    width: 600px;
+    z-index: 1;
 }
 
 .copyright {
